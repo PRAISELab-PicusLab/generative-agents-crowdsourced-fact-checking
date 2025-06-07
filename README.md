@@ -40,4 +40,4 @@ Generative agents:
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to open an issue or contact [Gian Marco Orlando](mailto:gianmarco.orlando@unina.it)
+For questions or collaborations, feel free to open an issue or contact [Gian Marco Orlando](mailto:gianmarco.orlando@unina.it).
